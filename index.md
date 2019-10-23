@@ -1,15 +1,15 @@
-# [Infrastructure](https://binujacobc.github.io/DevOps101/Automation "Documentation for Cloud Infrastructure")
+# [Infrastructure] (https://binujacobc.github.io/DevOps101/Automation)
 
 # [Continuous Integration] (https://binujacobc.github.io/DevOps101/Continuous_Integration)
 
-# [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing "Documentation for Continuous Testing")
+# [Continuous Testing] (https://binujacobc.github.io/DevOps101/Continuous_Testing)
 
-# [Continuous Deployment](https://binujacobc.github.io/DevOps101/Continuous_Deployment "Documentation for Continuous Deployment")
+# [Continuous Deployment] (https://binujacobc.github.io/DevOps101/Continuous_Deployment)
 
-# [Continuous Monitoring](https://binujacobc.github.io/DevOps101/Continuous_Monitoring "Documentation for Continuous Monitoring")
+# [Continuous Monitoring] (https://binujacobc.github.io/DevOps101/Continuous_Monitoring)
 
-# [Automation](https://binujacobc.github.io/DevOps101/Automation "Documentation for Automation")
+# [Automation] (https://binujacobc.github.io/DevOps101/Automation)
 
-# [Linux](https://binujacobc.github.io/DevOps101/linux "Documentation for Linux")
+# [Linux] (https://binujacobc.github.io/DevOps101/linux)
 
 
