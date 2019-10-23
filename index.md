@@ -1,6 +1,6 @@
 # [Infrastructure](https://binujacobc.github.io/DevOps101/Automation) ![alt text](https://d1.awsstatic.com/what-is-aws/AWS-Types-of-Cloud-Computing_Infrastructure-as-a-Service.c2e061a42b68ec6d969880fb8768bcb8e5cc2e69.png "Logo Title Text 1")
 
-# [Continuous_Integration](https://binujacobc.github.io/DevOps101/Continuous_Integration)
+# [Continuous Integration](https://binujacobc.github.io/DevOps_101/Continuous_Integration)
 
 # [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing)
 
