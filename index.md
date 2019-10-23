@@ -1,6 +1,6 @@
 # [Infrastructure] (https://binujacobc.github.io/DevOps101/Automation)
 
-# [Continuous Integration] (https://binujacobc.github.io/DevOps101/Continuous_Integration)
+# [Continuous Integration](https://binujacobc.github.io/DevOps101/Continuous_Integration)
 
 # [Continuous Testing] (https://binujacobc.github.io/DevOps101/Continuous_Testing)
 
