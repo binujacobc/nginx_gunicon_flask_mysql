@@ -1,12 +1,13 @@
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-```sh
-dfdsfvsdv
-```
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=EH37ee9JDg8
-" target="_blank"><img src="http://img.youtube.com/vi/EH37ee9JDg8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
+# [Continuous Integration](https://binujacobc.github.io/DevOps101/Continuous_Integration"Documentation for Continuous Integration")
 
+# [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing"Documentation for Continuous Testing")
 
----
+# [Continuous Deployment](https://binujacobc.github.io/DevOps101/Continuous_Deployment"Documentation for Continuous Deployment")
+
+# [Continuous Monitoring](https://binujacobc.github.io/DevOps101/Continuous_Monitoring"Documentation for Continuous Monitoring")
+
+# [Automation](https://binujacobc.github.io/DevOps101/Automation"Documentation for Automation")
+
+# [Infrastructure](https://binujacobc.github.io/DevOps101/Automation"Documentation for Cloud Infrastructure")
 
 
