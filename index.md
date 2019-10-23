@@ -1,4 +1,4 @@
-# [Infrastructure](https://binujacobc.github.io/DevOps101/Automation)
+# [Infrastructure](https://binujacobc.github.io/DevOps101/Automation) ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 # [Continuous Integration](https://binujacobc.github.io/DevOps101/Continuous_Integration)
 
