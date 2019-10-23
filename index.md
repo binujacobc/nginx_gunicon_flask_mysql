@@ -1,15 +1,12 @@
-# [Infrastructure](https://binujacobc.github.io/DevOps101/Automation) ![alt text](https://d1.awsstatic.com/what-is-aws/AWS-Types-of-Cloud-Computing_Infrastructure-as-a-Service.c2e061a42b68ec6d969880fb8768bcb8e5cc2e69.png "Logo Title Text 1")
+# [Linux](https://binujacobc.github.io/DevOps101/linux) 
 
-# [Continuous Integration](https://binujacobc.github.io/DevOps_101/Continuous_Integration)
+# [Infrastructure Automation](https://binujacobc.github.io/DevOps101/Infrastructure_Automation) ![alt text](https://d1.awsstatic.com/what-is-aws/AWS-Types-of-Cloud-Computing_Infrastructure-as-a-Service.c2e061a42b68ec6d969880fb8768bcb8e5cc2e69.png "Logo Title Text 1")
+
+# [CI/CD](https://binujacobc.github.io/DevOps_101/Continuous_Integration)
 
 # [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing)
 
-# [Continuous Deployment](https://binujacobc.github.io/DevOps101/Continuous_Deployment)
-
 # [Continuous Monitoring](https://binujacobc.github.io/DevOps101/Continuous_Monitoring)
 
-# [Automation](https://binujacobc.github.io/DevOps101/Automation)
-
-# [Linux](https://binujacobc.github.io/DevOps101/linux)
 
 
