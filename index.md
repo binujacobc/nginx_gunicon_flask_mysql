@@ -1,6 +1,6 @@
 # [Linux](https://binujacobc.github.io/DevOps101/linux) 
 
-# [Infrastructure Automation](https://binujacobc.github.io/DevOps101/Infrastructure_Automation) ![alt text](https://d1.awsstatic.com/what-is-aws/AWS-Types-of-Cloud-Computing_Infrastructure-as-a-Service.c2e061a42b68ec6d969880fb8768bcb8e5cc2e69.png "Logo Title Text 1")
+# [Infrastructure Automation](https://binujacobc.github.io/DevOps101/Infrastructure_Automation)
 
 # [CI/CD](https://binujacobc.github.io/DevOps_101/Continuous_Integration)
 
