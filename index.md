@@ -2,7 +2,7 @@
 
 # [Continuous Integration](https://binujacobc.github.io/DevOps101/Continuous_Integration) [logo]: https://cdn3.iconfinder.com/data/icons/the-missing-version-control-material/100/Branch-512.png "Logo Title Text 2"
 
-# [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing)![alt text](https://image.flaticon.com/icons/png/512/1508/1508763.png "Logo Title Text 3")
+# [Continuous Testing](https://binujacobc.github.io/DevOps101/Continuous_Testing)![alt text][logo](https://image.flaticon.com/icons/png/512/1508/1508763.png "Logo Title Text 3")
 
 # [Continuous Deployment](https://binujacobc.github.io/DevOps101/Continuous_Deployment)![alt text](https://mpng.pngfly.com/20180703/fjh/kisspng-software-testing-computer-icons-code-coverage-defe-ncover-5b3b451ba33af2.4612634115306109716686.jpg"Logo Title Text 4")
 
